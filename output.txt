@@ -1,0 +1,2 @@
+Appending to the new file
+Hello Python community!
